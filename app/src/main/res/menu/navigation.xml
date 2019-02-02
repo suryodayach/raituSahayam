@@ -4,20 +4,20 @@
     <item
         android:id="@+id/navigation_daily"
         android:icon="@drawable/rupee"
-        android:title="@string/title_home"/>
+        android:title="@string/daily_prices"/>
     <item
         android:id="@+id/navigation_realtime"
         android:icon="@drawable/fence"
-        android:title="@string/title_notifications"/>
+        android:title="@string/realtime_monitoring"/>
     <item
         android:id="@+id/navigation_chatbot"
         android:icon="@drawable/chat"
-        android:title="@string/title_dashboard"/>
+        android:title="@string/chatbot"/>
 
     <item
         android:id="@+id/navigation_settings"
         android:icon="@drawable/settings"
-        android:title="@string/title_notifications"/>
+        android:title="@string/settings"/>
 
 
 
